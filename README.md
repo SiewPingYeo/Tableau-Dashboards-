@@ -33,7 +33,7 @@ This repo stores the Tableau Dashboards that I have created.
 
 ![superstore 6](https://user-images.githubusercontent.com/94337686/175771241-c14ae2eb-73a7-43ce-b47a-b866f5f8e219.jpg)
 
-** 3. Dashboard for Tele-health Service**
+**3. Dashboard for Tele-health Service**
 
     - This dashboard shows an overview of the patients' demographics and its related profiles for a tele-health service platform. It is particularly useful to understand the members' profile and facilitate the customisation of marketing strategies towrds different user segments. This will subsequently improve the appeal of the platform and improve business revenue. 
     
